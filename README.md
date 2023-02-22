@@ -1,5 +1,7 @@
 # PRIMERA-TAREA-EN-PARALELO
 
+El link al repositorio al repositorio: https://github.com/Germiprogramer/PRIMERA-TAREA-EN-PARALELO.git
+
 # Programacion secuencial
 
 La programación secuencial consiste en que una tarea sigue a la otra y esta a su vez a otra y se van ejecutando consecutivamente.
